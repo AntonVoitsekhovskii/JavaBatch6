@@ -11,13 +11,11 @@ public class HW2 {
 
 	class Prime {
 		boolean isPrime(int a) {
-			//boolean flag;
 			if(a > 0 && a % a == 0) {
 				return true;
 			}
 			else {
 				return false;
 			}
-			//return flag;
 		}
 	}

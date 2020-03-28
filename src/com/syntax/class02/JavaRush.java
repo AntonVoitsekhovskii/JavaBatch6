@@ -23,7 +23,6 @@ public class JavaRush {
 	    
 	    public static int Max(int a, int b) {
 	        if (a > b) {
-	        	minNum = b;
 	            return a;
 	        }
 	        else {

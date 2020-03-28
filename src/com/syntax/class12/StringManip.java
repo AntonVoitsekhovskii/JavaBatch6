@@ -9,7 +9,7 @@ public class StringManip {
 			
 			for(int i = 0; i < str.length(); i++) {
 				letter = str.charAt(i);
-				System.out.print(" " + letter);
+				System.out.print(letter + " ");
 			}
 	}
 }
